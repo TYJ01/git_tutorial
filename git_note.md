@@ -1,1 +1,4 @@
 # this is a note on how to use git
+
+big isse here: still cant git push with TYJ01
+god pls help me!!!
